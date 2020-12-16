@@ -45,3 +45,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 # tw-clone
+link https://www.youtube.com/watch?v=bP6BtdM5CXU continue 34:00
